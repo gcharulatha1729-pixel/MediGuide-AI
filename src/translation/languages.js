@@ -1,0 +1,142 @@
+const languages = [
+  {
+    code: "en",
+    name: "English",
+    nativeName: "English",
+    voice: "en-IN",
+  },
+  {
+    code: "as",
+    name: "Assamese",
+    nativeName: "অসমীয়া",
+    voice: "as-IN",
+  },
+  {
+    code: "bn",
+    name: "Bengali",
+    nativeName: "বাংলা",
+    voice: "bn-IN",
+  },
+  {
+    code: "brx",
+    name: "Bodo",
+    nativeName: "बड़ो",
+    voice: "hi-IN",
+  },
+  {
+    code: "doi",
+    name: "Dogri",
+    nativeName: "डोगरी",
+    voice: "hi-IN",
+  },
+  {
+    code: "gu",
+    name: "Gujarati",
+    nativeName: "ગુજરાતી",
+    voice: "gu-IN",
+  },
+  {
+    code: "hi",
+    name: "Hindi",
+    nativeName: "हिन्दी",
+    voice: "hi-IN",
+  },
+  {
+    code: "kn",
+    name: "Kannada",
+    nativeName: "ಕನ್ನಡ",
+    voice: "kn-IN",
+  },
+  {
+    code: "ks",
+    name: "Kashmiri",
+    nativeName: "कॉशुर / کٲشُر",
+    voice: "hi-IN",
+  },
+  {
+    code: "kok",
+    name: "Konkani",
+    nativeName: "कोंकणी",
+    voice: "hi-IN",
+  },
+  {
+    code: "mai",
+    name: "Maithili",
+    nativeName: "मैथिली",
+    voice: "hi-IN",
+  },
+  {
+    code: "ml",
+    name: "Malayalam",
+    nativeName: "മലയാളം",
+    voice: "ml-IN",
+  },
+  {
+    code: "mni",
+    name: "Manipuri",
+    nativeName: "মৈতৈলোন্",
+    voice: "hi-IN",
+  },
+  {
+    code: "mr",
+    name: "Marathi",
+    nativeName: "मराठी",
+    voice: "mr-IN",
+  },
+  {
+    code: "ne",
+    name: "Nepali",
+    nativeName: "नेपाली",
+    voice: "ne-IN",
+  },
+  {
+    code: "or",
+    name: "Odia",
+    nativeName: "ଓଡ଼ିଆ",
+    voice: "or-IN",
+  },
+  {
+    code: "pa",
+    name: "Punjabi",
+    nativeName: "ਪੰਜਾਬੀ",
+    voice: "pa-IN",
+  },
+  {
+    code: "sa",
+    name: "Sanskrit",
+    nativeName: "संस्कृत",
+    voice: "hi-IN",
+  },
+  {
+    code: "sat",
+    name: "Santali",
+    nativeName: "ᱥᱟᱱᱛᱟᱲᱤ",
+    voice: "hi-IN",
+  },
+  {
+    code: "sd",
+    name: "Sindhi",
+    nativeName: "سنڌي",
+    voice: "hi-IN",
+  },
+  {
+    code: "ta",
+    name: "Tamil",
+    nativeName: "தமிழ்",
+    voice: "ta-IN",
+  },
+  {
+    code: "te",
+    name: "Telugu",
+    nativeName: "తెలుగు",
+    voice: "te-IN",
+  },
+  {
+    code: "ur",
+    name: "Urdu",
+    nativeName: "اردو",
+    voice: "ur-IN",
+  },
+];
+
+export default languages;
